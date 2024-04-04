@@ -4,4 +4,4 @@
 A console four in a row game developed in Java.
 
 ## Graph Paths - Caminos en un grafo:
-Find all the posible paths of a given graph.
+A Java console software which can find all the posible paths of a given graph.
