@@ -1,4 +1,4 @@
-#Courseworks of the course "Data Structures and Algorithms"
+# Courseworks of the course "Data Structures and Algorithms"
 
 ## Four in a row - Cuatro en raya:
 A console four in a row game developed in Java.
